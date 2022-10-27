@@ -1,4 +1,4 @@
-## Software Engineer student with interest in android development and UI/UX-design
+## Software Engineer student with interest in Android Development and UI/UX-design
 
 + Currently studying __Kotlin__, __Java__, __Android SDK__ and a little bit __Web Development__
 + Software Engineer student at __ITIS KFU__

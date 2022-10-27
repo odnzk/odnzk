@@ -1,9 +1,15 @@
-## Software Engineer student with interest in Android Development and UI/UX-design
+
+<table>
+<tr><td>
+<img max-width="120px" src="https://github.com/Odenezhkina/odenezhkina/blob/main/lofi_image.jpeg" style="background-size: cover">
+</td>
+<td>
+
+## Software Engineer student with interest in android development and UI/UX-design
 
 + Currently studying __Kotlin__, __Java__, __Android SDK__ and a little bit __Web Development__
 + Software Engineer student at __ITIS KFU__
 
-[//]: # (<img src="https://github.com/Odenezhkina/odenezhkina/blob/main/animation.gif.mp4">)
 ### Tech stack:
 <p> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="25"/> </a> 
@@ -23,3 +29,6 @@
 <a href="" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="odenezhkina" height="30" width="40" /></a>
 </p>
+</td>
+</tr>
+</table>

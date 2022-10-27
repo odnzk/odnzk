@@ -1,7 +1,7 @@
 
 <table>
 <tr><td>
-<img max-width="120px" src="https://github.com/Odenezhkina/odenezhkina/blob/main/lofi_image.jpeg" style="background-size: cover">
+<img width="180px" src="https://github.com/Odenezhkina/odenezhkina/blob/main/lofi_image.jpeg" style="background-size: cover">
 </td>
 <td>
 

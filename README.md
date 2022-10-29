@@ -1,9 +1,4 @@
 
-<table>
-<tr><td>
-<img width="180px" src="https://github.com/Odenezhkina/odenezhkina/blob/main/lofi_image.jpeg" style="background-size: cover">
-</td>
-<td>
   
 ## Hey, there! :wave:
   
@@ -26,12 +21,8 @@
 
 #### Contact me:
 <p>
-<a href="https://t.me/odenezhkina" target="blank">
+<target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="odenezhkina" height="30" width="40" /></a>
 
-<a href="" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="odenezhkina" height="30" width="40" /></a>
 </p>
-</td>
-</tr>
-</table>
+

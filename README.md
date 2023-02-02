@@ -24,6 +24,6 @@
 <a href="https://t.me/odenezhkina">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="30" /></a>
  <a href="https://www.behance.net/aioniadesign">
-<img align="center" src="https://github.com/Odenezhkina/storage/blob/main/images/behance.png" alt="behance" height="30" width="30" /></a>
+<img align="center" src="https://raw.githubusercontent.com/Odenezhkina/odenezhkina/main/behance.png" alt="behance" height="30" width="30" /></a>
 </p>
 

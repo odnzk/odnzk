@@ -1,6 +1,6 @@
 
   
-## Hey, there! :wave:
+## Hey, there
   
 #### About me
 + Currently studying __Kotlin__, __Java__, __Android SDK__ and a little bit __Web Development__

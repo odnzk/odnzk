@@ -15,10 +15,10 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="30"/>
-<img src="https://github.com/odnzk/DictionaryApp/blob/32c1f1a8fdb0f585f7d8982d28cac453e5b99dad/springio-icon.svg" alt="spring" height="30"/>
-<img src="https://github.com/odnzk/DictionaryApp/blob/eedff40abad7d209b58b936002c7200b80622e6e/html5.png" alt="html" height="30"/>
+<img src="https://github.com/odnzk/odnzk/blob/014e24e7a3957cd9b3a7043ac3092b349b592e2b/springio-icon.svg" alt="spring" height="30"/>
+<img src="https://github.com/odnzk/odnzk/blob/014e24e7a3957cd9b3a7043ac3092b349b592e2b/html5.png" alt="html" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" height="30"/>
-<img src="https://github.com/odnzk/DictionaryApp/blob/eedff40abad7d209b58b936002c7200b80622e6e/javascript.png" alt="js" height="30"/>
+<img src="https://github.com/odnzk/odnzk/blob/014e24e7a3957cd9b3a7043ac3092b349b592e2b/javascript.png" alt="js" height="30"/>
 </p>
 
 

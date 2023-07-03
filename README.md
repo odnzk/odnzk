@@ -1,10 +1,11 @@
 ### <img src="https://github.com/odnzk/DictionaryApp/blob/32c1f1a8fdb0f585f7d8982d28cac453e5b99dad/sweetGif.gif" alt="kitty" height="50" width="80"/> Hey, there!
-+ Software Engineering student
-+ Passionate about Kotlin, Java, Android SDK, Web Development and UX/UI design
++ :seedling: Passionate Android Developer
++ :sparkles: Also interested in Web Development and UI/UX-desing
 
 #### :mortar_board: Education
 + Graduated from __Samsung IT School__
 + Graduated from __Tinkoff Fintech Android Development School__
++ Graduated from __Technokratos Practical Android Lab__
 + Software Engineer student at <a href="https://kpfu.ru/itis">__ITIS KFU__</a>
 
 #### :hammer_and_pick: Tech stack

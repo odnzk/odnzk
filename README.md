@@ -1,4 +1,4 @@
-### <img src="https://github.com/odnzk/DictionaryApp/blob/32c1f1a8fdb0f585f7d8982d28cac453e5b99dad/sweetGif.gif" alt="kitty" height="50" width="80"/> Hey, there!
+### Hey, there!
 + :seedling: Passionate Android Developer
 + :sparkles: Also interested in Web Development and UI/UX-desing
 

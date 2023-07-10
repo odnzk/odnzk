@@ -1,6 +1,6 @@
 ### Hey, there!
 + :seedling: Passionate Android Developer
-+ :sparkles: Also interested in Web Development and UI/UX-desing
++ :sparkles: Also interested in Web Development and UI/UX-design
 
 #### :mortar_board: Education
 + Graduated from __Samsung IT School__
